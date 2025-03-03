@@ -21,6 +21,11 @@ TODO、生日、倒计时、跟时间相关的组件
 
 全部开源组件仓库在这：https://github.com/widget-js/widgets
 
+新修改的效果示意图：
+<p align="center">
+  <img src="https://github.com/PPalouga/event_list/blob/master/event_list.png" alt="">
+</p>
+
 ### 运行项目
 #### 1.下载并运行桌面组件客户端
 - https://www.microsoft.com/store/productId/9NPR50GQ7T53
